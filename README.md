@@ -6,3 +6,12 @@ Master Python by building 100 projects in 100 days.
 Learn to build websites , games , apps ,plus scraping and data science.
 
 **Description of Course From Udemy**
+<h1 align="center"> 
+100 Days of Python
+</h1>
+<h5 align="center">
+Starting from : November 22 2021
+</h5>
+<p align="center">
+I <a href="https://github.com/ashvi2021/100-days-of-course-within-python">pledge</a> to complete this 100 days of coding challenge.
+</p>
