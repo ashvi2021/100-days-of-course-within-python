@@ -17,4 +17,6 @@ I <a href="https://github.com/ashvi2021/100-days-of-course-within-python">pledge
 </p>
 ## Contents
 
-- <b>Day 1</b> - [Working with Variables in Python to Manage Data and make band name generaator project! ](Day1/Day1_band-name_generator.py)
+- <b>Day 1</b> - [Working with Variables in Python to Manage Data and make band name generator project! ](Day1/Day1_band-name_generator.py)
+- <b>Day 2</b> - [Understanding Data Types and How to Manipulate String and make a tip calculator project!](Day2/Day2_Exercise2.py)
+
