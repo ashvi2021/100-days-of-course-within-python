@@ -1,6 +1,0 @@
-num=input("Enter two digit no")
-print(type(num))
-print(num[0])
-print(num[1])
-result=int(num[0])+int(num[1])
-print(result)
