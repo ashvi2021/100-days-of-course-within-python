@@ -27,3 +27,5 @@ I <a href="https://github.com/ashvi2021/100-days-of-course-within-python">pledge
 
 - <b>Day 5</b> - [Python Loops and make a password generator project!](Day5/Day_5_project_password_generator.py)
 
+- <b>Day 7</b> - [Hangman](Day7/Code_3_day_7_How_to_check_if_the_player_is_won.py)
+
