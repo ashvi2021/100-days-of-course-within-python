@@ -15,11 +15,12 @@ Starting from : November 22 2021
 <p align="center">
 I <a href="https://github.com/ashvi2021/100-days-of-course-within-python">pledge</a> to complete this 100 days of coding challenge.
 </p>
-## Contents
+
 
 <h1 align="center">
   Beginner Level
-</h1>  
+</h1>
+## Contents
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data and make band name generator project! ](Day1/Day1_band-name_generator.py)
 
