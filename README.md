@@ -18,5 +18,12 @@ I <a href="https://github.com/ashvi2021/100-days-of-course-within-python">pledge
 ## Contents
 
 - <b>Day 1</b> - [Working with Variables in Python to Manage Data and make band name generator project! ](Day1/Day1_band-name_generator.py)
+
 - <b>Day 2</b> - [Understanding Data Types and How to Manipulate String and make a tip calculator project!](Day2/Day2_Exercise2.py)
+
+- <b>Day 3</b> - [Control Flow and Logical Operators and make a treasure island project!](Day3/Day3_Project_treasure_island.py)
+
+- <b>Day 4</b> - [Randomisation and Python Lists and make a rock paper scissor project!](Day4/Day4_project_Rock_Paper_Scissor.py)
+
+- <b>Day 5</b> - [Python Loops and make a password generator project!](Day5/Day_5_project_password_generator.py)
 
